@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "IT Solutions",
+      "phone": "8344368897",
+      "email": "info@it.com",
+      "location": "AMERICA"
+    },
+    {
+      "id": 2,
+      "name": "G & G Industries",
+      "phone": "7884420760",
+      "email": "info@gg.com",
+      "location": "ASIA"
+    }
+  ]
+}
