@@ -102,7 +102,7 @@ The app will run at 👉 `http://localhost:3000`
 
 ## 📸 Screenshots
 
-![alt text](<Screenshot 1.png>) ![alt text](<Screenshot 2.png>) ![alt text](<Screenshot 3.png>) ![alt text](<Screenshot 4.png>) ![alt text](<Screenshot 5.png>)
+assets/screenshots/Screenshot 1.png assets/screenshots/Screenshot 2.png assets/screenshots/Screenshot 3.png assets/screenshots/Screenshot 4.png assets/screenshots/Screenshot 5.png
 ---
 
 ## 🤝 Contributing
